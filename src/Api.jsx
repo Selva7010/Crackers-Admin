@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const Api = axios.create({
-  baseURL: "https://crackers-backend-mswq.onrender.com/api",
+  baseURL: "https://crackers-website-backend.onrender.com/api",
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
       
