@@ -89,7 +89,7 @@ export default function AdminLogin() {
           Login
         </button>
         <p className="text-center mt-6 text-sm text-orange-500">
-          If you want to user?{" "}
+          Dont haven't account?{" "}
           <Link to="/admin/register" className="text-black cursor-pointer font-semibold hover:underline">Register Here</Link>
         </p>
       </form>
