@@ -43,8 +43,8 @@ export default function AdminOrders() {
     <div className="flex ">
       <AdminNavbar />
 
-      <main className="flex-1 md:ml-64 p-4 md:p-8 bg-sky-200 min-h-screen">
-        <h2 className="text-3xl font-extrabold mb-8 text-gray-800">
+      <main className="flex-1 p-4 md:p-8 bg-sky-200 min-h-screen">
+        <h2 className="text-3xl font-extrabold mb-8 text-gray-800 max-md:mt-15">
           📦 Admin Orders
         </h2>
 
