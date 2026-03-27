@@ -72,8 +72,8 @@ export default function AdminDashboard() {
     <div className="flex">
       <AdminNavbar />
 
-      <main className="flex-2 md:ml-64 sm:mt-10 p-6 bg-sky-200 min-h-screen">
-        <h1 className="text-3xl font-extrabold mb-8">
+      <main className="flex-2 p-6 bg-sky-200 min-h-screen">
+        <h1 className="text-3xl font-extrabold mb-8 max-md:mt-10">
           📊 Admin Dashboard
         </h1>
 
